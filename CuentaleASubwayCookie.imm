@@ -1,5 +1,5 @@
 '**** Set your email address HERE *****
-SET yourEmailAddress cjimenez16@gmail.com
+SET yourEmailAddress me@gmail.com
 '**** Set the ID of the restaurant here, check your invoice for the ID *****
 SET restaurantID 20732
 '**** NOTE: The systems validate that you use the script only onces every 24 hours.
