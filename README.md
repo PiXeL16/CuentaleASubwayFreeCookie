@@ -4,7 +4,7 @@
 
 ### Subway gives away a free cookie if you fill up an online poll
 
-So Subway(Costa Rica, not sure if other countries do it as well) give away a free cookie if you fill up an online poll, you can do this any number of times you want, but only ones every 24 hours.
+So Subway(Costa Rica, not sure if other countries do it as well) give away a free cookie if you fill up an [online poll ](https://www.cuentaleasubway.com), you can do this any number of times you want, but only ones every 24 hours.
 
 ## The Script
 This is just a simple [IMacro](https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/) to automate the process, you will only need to set your `email address`(They will send a code that you show to the cashier) and your `restaurant ID` that you can get from an invoice.
